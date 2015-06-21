@@ -7,5 +7,6 @@
   <modules>
   	<module>test-module1</module>
   	<module>test-module2</module>
+  	<module>test-module3</module>
   </modules>
 </project>
